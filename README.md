@@ -59,3 +59,4 @@ Additionally, the console supports `<class name>.<command>(<parameters>)` syntax
 Ex:
 `City.show(my_city_id)`
 
+New Autho: Awokunle Oyinlola
