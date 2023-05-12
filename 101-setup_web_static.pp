@@ -1,3 +1,4 @@
+/**Write a Bash script that sets up your web servers for the deployment of web_static using puppet**/
 # Configures a web server for deployment of web_static.
 
 # Nginx configuration file
